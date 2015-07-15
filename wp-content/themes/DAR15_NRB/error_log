@@ -1,0 +1,1 @@
+[11-Jun-2015 10:58:34 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_header() in /home/elefin5/public_html/dar/wp-content/themes/womensfunding/index.php on line 7
